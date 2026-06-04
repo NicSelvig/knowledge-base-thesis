@@ -4,7 +4,7 @@ This file tells you (the LLM agent) how this knowledge base is structured and ho
 
 ## Purpose
 
-This knowledge base supports a master's thesis on AI agent productivity as an infrastructure problem. It tracks literature, experiments, decisions, reflections, and evolving synthesis. It does not contain the experiments' source code or the thesis manuscript — those live in separate repositories.
+This knowledge base supports a master's thesis in Political Science. It tracks literature, experiments, decisions, reflections, and evolving synthesis. It does not contain the experiments' source code or the thesis manuscript — those live in separate repositories.
 
 ## The Three Roles
 
