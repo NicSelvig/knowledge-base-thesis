@@ -1,3 +1,3 @@
 # Log
 
-## Date 04.06.26
+## [2026-06-04] init | knowledge-base | Initial scaffolding created

@@ -21,12 +21,10 @@
             "id": "5fb51713d5355984",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "raw/literature/Karpukhin(2020).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Karpukhin(2020)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -191,6 +189,7 @@
   },
   "active": "3b37a667b560a2f6",
   "lastOpenFiles": [
+    "admin/ideas.md",
     "diary/2026-05-16.md",
     "raw/literature/Karpukhin(2020).pdf",
     "inbox/Untitled.md",
@@ -217,7 +216,6 @@
     "raw/literature/Sofroniew(2026).md",
     "wiki/literature/peng2023copilot.md",
     "wiki/literature/lewis2020rag.md",
-    "wiki/literature/karpukhin2020dpr.md",
-    "wiki/literature/simon1996artificial.md"
+    "wiki/literature/karpukhin2020dpr.md"
   ]
 }
